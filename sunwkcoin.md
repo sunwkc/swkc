@@ -35,12 +35,14 @@ Atomix 原子提交协议（测试中）: 两步分片间原子提交协议，�
   不断发展SWKC社区，朝向星辰大海前进，让零通胀率的储值概念深入人心。
   相信区块链，相信IOST公链的技术基础，相信SWKC未来前景无限。
 
-# SWKC社区基金会联系方式
+# SWKC社区基金会sunwkc
 
  E_mail：sunwkcoin@163.com
 
  电报(币用)群:
  https://t.me/joinchat/NkufZR0N0UGP7DvRCYS9Hg
+ 
+ SWKC基金会唯一账户sunwkc
 
 # 区块链查询地址
 https://www.iostabc.com/token/swkc?page=1&size=50&order=asc
